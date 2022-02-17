@@ -11,7 +11,11 @@
 
 
 
+
 .print
 .print Q1c(ii)
 
 
+
+
+.print
