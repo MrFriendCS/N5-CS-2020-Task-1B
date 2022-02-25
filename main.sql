@@ -10,7 +10,7 @@
 .print Q1c(i)
 
 
-
+    
 
 .print
 .print Q1c(ii)
